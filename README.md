@@ -1,7 +1,17 @@
 # Hello, I'm @Helia-parto!
 
 ## About Me
-I am a passionate Data Analyst dedicated to empowering business success through advanced analytics. With a keen eye for detail and a knack for turning data into actionable insights, I help businesses uncover hidden opportunities and drive growth. My expertise lies in Python, SQL, machine learning, and data visualization. Let's work together to transform your data into gold! ✨
+
+I'm a Senior Data Analyst focused on analytics engineering, BI systems, financial analytics, and automation.
+
+I work on:
+- Scalable reporting and BI infrastructure
+- KPI frameworks and metric lineage
+- SQL, BigQuery, Microsoft Fabric, Power BI, and dbt
+- Python automation with Selenium, OpenCV, and Pillow
+- Data workflows that connect business teams with reliable decision-making
+
+My background combines analytics engineering, ecommerce/retail analytics, financial reporting, and automation projects — including large-scale invoice automation, BI architecture work, and digital product automation.
 
 ## Skills
 - **Data Analysis:** Leveraging Python, SQL, and pandas for comprehensive data analysis.
@@ -53,6 +63,8 @@ I am a passionate Data Analyst dedicated to empowering business success through 
 ## Get in Touch
 - LinkedIn: www.linkedin.com/in/helia-parto
 - Email: helia.parto@gmail.com
+- website: www.Heliaparto.com
 
 Let's connect and explore how we can collaborate to harness the power of data for your business success!
+
 
