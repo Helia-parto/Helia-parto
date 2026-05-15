@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Senior Data Analyst focused on analytics engineering, BI systems, financial analytics, and automation.
+I'm a Senior Data Analyst, BI & Analytics Engineer focused on analytics engineering, BI systems, financial analytics, and automation.
 
 I work on:
 - Scalable reporting and BI infrastructure
