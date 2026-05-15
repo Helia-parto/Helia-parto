@@ -36,7 +36,7 @@ My background combines analytics engineering, ecommerce/retail analytics, financ
   Master's degree in Artificial Intelligence
   Studying AI at BTU Cottbus, focusing on machine learning and deep learning for innovative solutions.
 
-- **Alzahra University** (2016 - 2020):
+- **Alzahra University** (2016 - 2021):
   Bachelor's degree in Computer Science
   Studied Computer Science at Alzahra University.
 
