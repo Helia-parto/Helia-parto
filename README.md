@@ -54,10 +54,10 @@ My background combines analytics engineering, ecommerce/retail analytics, financ
 - **Grade Analyzer** (Apr 2022 - May 2022):
   Developed a program using seaborn to visualize grades in different skills such as reading and listening, providing an overview of progress by giving average and progress rates. Also compared different students' performance.
 
-- **Automated Watch-face Makers** (Aug 2018 - Sep 2020):
+- **Automated Watch-face Makers** (Aug 2018 - Sep 2023):
   Developed an automation software tool simplifying the process of creating customized Samsung watch faces. The tool automatically downloaded images and licenses from freepik.com, used OpenCV and Pillow to modify XML of watch faces with appropriate colors, filled out a 3-page form, uploaded backgrounds and screenshots, and translated titles, descriptions, and tags into seven different languages.
 
-- **Gender Detection Using Deep Learning** (Jan 2020 - Sep 2020):
+- **Gender Detection Using Deep Learning** (Jan 2020 - Sep 2021):
   Prepared a web scraper to gather data and images for training the algorithm, then used Keras and TensorFlow to detect gender of a person in a given picture with an accuracy rate display.
 
 ## Get in Touch
